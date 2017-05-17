@@ -3,3 +3,18 @@
 ################################################################################
 
 *.suo
+*.sqlite
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+obj/Debug/
+Debug/
+Release/
+*.opensdf
+*.cache
+*.tlog
+*.log
