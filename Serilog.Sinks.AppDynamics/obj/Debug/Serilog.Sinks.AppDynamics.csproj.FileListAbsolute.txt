@@ -1,9 +1,0 @@
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.Sinks.AppDynamics.dll
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.Sinks.AppDynamics.pdb
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.dll
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.xml
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\bin\Debug\Serilog.Sinks.PeriodicBatching.xml
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\obj\Debug\Serilog.Sinks.AppDynamics.csprojResolveAssemblyReference.cache
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\obj\Debug\Serilog.Sinks.AppDynamics.dll
-c:\users\seany\documents\visual studio 2017\Projects\Serilog.Sinks.AppDynamics\Serilog.Sinks.AppDynamics\obj\Debug\Serilog.Sinks.AppDynamics.pdb
