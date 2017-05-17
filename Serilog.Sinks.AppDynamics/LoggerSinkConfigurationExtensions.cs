@@ -1,5 +1,6 @@
 ﻿using System;
 using Serilog.Configuration;
+using Serilog.Sinks.AppDynamics.Helpers;
 using Serilog.Sinks.AppDynamics.Sinks.AppDynamics;
 
 namespace Serilog.Sinks.AppDynamics

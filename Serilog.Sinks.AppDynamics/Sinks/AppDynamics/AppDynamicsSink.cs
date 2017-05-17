@@ -8,6 +8,7 @@ using Serilog.Debugging;
 using Serilog.Events;
 using Serilog.Formatting;
 using Serilog.Formatting.Json;
+using Serilog.Sinks.AppDynamics.Helpers;
 using Serilog.Sinks.PeriodicBatching;
 
 namespace Serilog.Sinks.AppDynamics.Sinks.AppDynamics

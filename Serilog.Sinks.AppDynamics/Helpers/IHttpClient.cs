@@ -2,7 +2,7 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Serilog.Sinks.AppDynamics.Sinks.AppDynamics
+namespace Serilog.Sinks.AppDynamics.Helpers
 {
     /// <summary>
     /// Interface responsible for posting HTTP requests.

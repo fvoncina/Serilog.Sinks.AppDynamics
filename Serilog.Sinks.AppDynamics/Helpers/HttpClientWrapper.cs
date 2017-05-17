@@ -1,8 +1,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
-using Serilog.Sinks.AppDynamics.Sinks.AppDynamics;
 
-namespace Serilog.Sinks.AppDynamics
+namespace Serilog.Sinks.AppDynamics.Helpers
 {
     internal class HttpClientWrapper : IHttpClient
     {
