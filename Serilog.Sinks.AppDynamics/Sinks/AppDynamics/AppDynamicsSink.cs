@@ -32,6 +32,7 @@ namespace Serilog.Sinks.AppDynamics.Sinks.AppDynamics
             this.eventBodyLimitBytes = eventBodyLimitBytes;
             this.client = client ?? throw new ArgumentNullException(nameof(client));
 
+
             formatter = new JsonFormatter();
         }
         
